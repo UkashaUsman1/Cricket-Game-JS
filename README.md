@@ -12,3 +12,9 @@ This project is a light-hearted, web-based cricket game developed as part of a l
 - **Visual Elements** – Includes styled HTML components and graphics from the `images/` directory.
 - **Responsive Design** – Looks good on both desktop and mobile screens (books/adjusts based on your CSS styling).
 - **Easy to Run** – No installations required; just open `index.html` to play.
+
+## 🛠️ Technologies Used
+
+- **HTML5** – Structure
+- **CSS3** – Styling
+- **JavaScript (ES6)** – Functionality
